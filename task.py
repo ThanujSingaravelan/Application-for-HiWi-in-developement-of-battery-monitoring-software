@@ -2,6 +2,8 @@
 """
 Temperature Data Task
 
+-requires "temperature.csv" in working directory
+
 @author: Thanuj Singaravelan
 """
 
