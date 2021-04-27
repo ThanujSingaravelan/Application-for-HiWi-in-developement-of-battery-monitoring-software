@@ -1,7 +1,7 @@
-# Application-for-HiWi-in-developement-of-battery-monitoring-software
+### Application-for-HiWi-in-developement-of-battery-monitoring-software
 Temperature task for application for HiWi in developement of battery monitoring software
 
-task.py is the file for the requreid task 
+### "task.py" is the file for the required task 
 
 
 # Setup
